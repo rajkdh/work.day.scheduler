@@ -1,0 +1,30 @@
+body{
+  background-color: #FBE7C6;
+  
+}
+
+.header {
+    background-color:white;
+    text-align: center;
+    width: 550px;
+    position: relative;
+    padding: 15px 15px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+.hide{
+    display:none;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+}
+.schedule-slot{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+input{
+    width:500px;
+}
