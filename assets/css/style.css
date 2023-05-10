@@ -15,16 +15,35 @@ body{
 .hide{
     display:none;
 }
+    
 .container{
     display:flex;
     flex-direction: column;
+    row-gap: 30px;
+    padding:15px;
+    margin: 0 auto;
+    padding: 10px;
+    width:fit-content;
+    margin-top: 35px;
 }
 .schedule-slot{
     display: flex;
     flex-direction: row;
+    column-gap:20px;
     
     
 }
 input{
     width:500px;
+    height: 32px;
+    text-align: center;
+}
+.time {
+    background-color: yellow;
+    width: 50px;
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    text-align: center;
 }
