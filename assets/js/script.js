@@ -10,6 +10,7 @@ $(function () {
             var time = $(this).parent().attr('id');
             var savedEvent = localStorage.setItem(event, time);
 
+
         });
 //time tracked and respected time blocks change accordingly.
 var timeBlock = $('.time-block');
@@ -25,11 +26,12 @@ timeBlock.each(function(){
     } else {
         $(this).addClass('future');
     }
-})
 
 
 
-   
+});
+//get item from local storage
+$('.description').val(localStorage.getItem('.time-block'))
 
 });
 
