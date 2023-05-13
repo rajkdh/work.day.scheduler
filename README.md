@@ -40,7 +40,8 @@ My goal in creating this application is to provide an easy way to track tasks ex
 
 <!-- USAGE EXAMPLES -->
 ## Usage
- 
+ ![05-third-party-apis-homework-demo](https://github.com/rajkdh/work.day.scheduler/assets/112664790/e84ebcaf-dace-4018-8943-a783ad6d4cdc)
+
 <br>
 <br>
 
