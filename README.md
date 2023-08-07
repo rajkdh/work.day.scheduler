@@ -32,11 +32,12 @@ My goal in creating this application is to provide an easy way to track tasks ex
 * HTML
 * CSS
 * javaScript
+* bootstrap
 
 <!-- GETTING STARTED -->
 ## Getting Started
 <!--Add deployed site link -->
-[Deployed Website](rajkdh.github.io.)
+[Deployed Website](https://rajkdh.github.io/work.day.scheduler/)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
